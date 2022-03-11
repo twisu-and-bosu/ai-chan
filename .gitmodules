@@ -1,0 +1,6 @@
+[submodule "discord"]
+	path = discord
+	url = git@github.com:twisu-and-bosu/ai-chan-discord.git
+[submodule "utilities"]
+	path = utilities
+	url = git@github.com:twisu-and-bosu/ai-chan-utilities.git
